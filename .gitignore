@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*
+*.tmp
+
+# Local exports and archives
+*.zip
+*.tar
+*.tar.gz
+
+# Build/cache folders
+.cache/
+dist/
+build/
+
+# Local editor settings
+.vscode/
+.idea/
+
