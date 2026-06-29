@@ -1,4 +1,4 @@
-# Ideas - Wang, Jingru
+# Ideas - Jingru Wang
 
 ## Initial Understanding
 

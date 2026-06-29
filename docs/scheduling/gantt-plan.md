@@ -23,12 +23,12 @@ Rate each skill from 1 to 6.
 
 | Name | Working Time (%) | Project Management | Requirements | Architecture | Programming | Testing | Documentation |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Nguyen, Hieu | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Wang, Jingru | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Dinesha Shyamala, Prasad | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Yi, Jiahao | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Sun, Teng | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Guo, Ziyu | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Hieu Nguyen | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Jingru Wang | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Prasad Dinesha Shyamala | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Jiahao Yi | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Teng Sun | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Ziyu Guo | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
 ## Activity Resource Assignment
 

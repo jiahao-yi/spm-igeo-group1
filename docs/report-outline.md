@@ -6,12 +6,12 @@
 - Project: iGEO Internet of Moving Things Planning Project
 - Group: Group 1
 - Members:
-  - Nguyen, Hieu
-  - Wang, Jingru
-  - Dinesha Shyamala, Prasad
-  - Yi, Jiahao
-  - Sun, Teng
-  - Guo, Ziyu
+  - Hieu Nguyen
+  - Jingru Wang
+  - Prasad Dinesha Shyamala
+  - Jiahao Yi
+  - Teng Sun
+  - Ziyu Guo
 
 ## 1. Project Management Foundations, Stakeholder Analysis, and Decision Analysis
 

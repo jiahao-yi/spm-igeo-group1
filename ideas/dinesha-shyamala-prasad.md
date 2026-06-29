@@ -1,4 +1,4 @@
-# Ideas - Dinesha Shyamala, Prasad
+# Ideas - Prasad Dinesha Shyamala
 
 ## Initial Understanding
 

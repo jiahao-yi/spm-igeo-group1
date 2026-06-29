@@ -1,4 +1,4 @@
-# Ideas - Yi, Jiahao
+# Ideas - Jiahao Yi
 
 ## Initial Understanding
 

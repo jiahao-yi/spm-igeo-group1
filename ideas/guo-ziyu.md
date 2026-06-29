@@ -1,4 +1,4 @@
-# Ideas - Guo, Ziyu
+# Ideas - Ziyu Guo
 
 ## Initial Understanding
 

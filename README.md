@@ -4,12 +4,12 @@ This repository is the shared workspace for Group 1's Software Project Managemen
 
 ## Group Members
 
-- Nguyen, Hieu
-- Wang, Jingru
-- Dinesha Shyamala, Prasad
-- Yi, Jiahao
-- Sun, Teng
-- Guo, Ziyu
+- Hieu Nguyen
+- Jingru Wang
+- Prasad Dinesha Shyamala
+- Jiahao Yi
+- Teng Sun
+- Ziyu Guo
 
 ## Project Goal
 

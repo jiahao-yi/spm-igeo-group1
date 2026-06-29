@@ -1,4 +1,4 @@
-# Ideas - Nguyen, Hieu
+# Ideas - Hieu Nguyen
 
 ## Initial Understanding
 

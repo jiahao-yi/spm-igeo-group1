@@ -1,4 +1,4 @@
-# Ideas - Sun, Teng
+# Ideas - Teng Sun
 
 ## Initial Understanding
 
