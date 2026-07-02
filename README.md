@@ -34,19 +34,19 @@ final-submission/     Final PDF and ZIP package before submission
 
 ## Progress Checklist
 
-- [ ] Task 1: Project definition drafted
-- [ ] Task 1: Stakeholder socio-diagram completed
-- [ ] Task 1: Power-interest matrix completed
-- [ ] Task 1: Supplier selection criteria defined
-- [ ] Task 2: WBS version 1 completed
-- [ ] Task 2: WBS validation documented
-- [ ] Task 2: WBS version 2 completed
-- [ ] Task 2: Paired comparison and grid analysis completed
-- [ ] Task 3: Planning Poker results collected
-- [ ] Task 3: Use Case Point estimation completed
-- [ ] Task 4: Activity network diagram completed
-- [ ] Task 4: Gantt chart completed
-- [ ] Task 4: Resource and skill planning completed
-- [ ] Final PDF reviewed
-- [ ] Final ZIP prepared
+- [x] Task 1: Project definition drafted
+- [x] Task 1: Stakeholder socio-diagram completed
+- [x] Task 1: Power-interest matrix completed
+- [x] Task 1: Supplier selection criteria defined
+- [x] Task 2: WBS version 1 completed
+- [x] Task 2: WBS validation documented
+- [x] Task 2: WBS version 2 completed
+- [x] Task 2: Paired comparison and grid analysis completed
+- [x] Task 3: Planning Poker results collected
+- [x] Task 3: Use Case Point estimation completed
+- [x] Task 4: Activity network diagram completed
+- [x] Task 4: Gantt chart completed
+- [x] Task 4: Resource and skill planning completed
+- [x] Final PDF reviewed
+- [x] Final ZIP prepared
 
